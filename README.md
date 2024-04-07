@@ -1,3 +1,3 @@
 # Header
 
-Some text
+Some descriptive text
